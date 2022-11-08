@@ -1,6 +1,5 @@
 "use strict";
 
-var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault").default;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -11,3 +10,4 @@ Object.defineProperty(exports, "TextInput", {
   }
 });
 var _TextInput = _interopRequireDefault(require("./TextInput"));
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }

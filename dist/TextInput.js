@@ -1,12 +1,12 @@
 "use strict";
 
-var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault").default;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = exports.TextInput = void 0;
 var _react = _interopRequireDefault(require("react"));
 require("./TextInput.css");
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 var TextInput = function TextInput(_ref) {
   var _ref$type = _ref.type,
     type = _ref$type === void 0 ? "text" : _ref$type,
