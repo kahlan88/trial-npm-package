@@ -43,3 +43,4 @@ debug.log
 
 !/public/robots.txt
 !/public/scout.png
+.parcel-cache

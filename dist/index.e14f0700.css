@@ -1,0 +1,18 @@
+.simple-form-group {
+  margin-bottom: 1rem;
+}
+
+.simple-text-label {
+  color: red;
+  display: block;
+}
+
+.simple-text-input {
+  color: #212529;
+  margin-bottom: .5rem;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=index.e14f0700.css.map */
