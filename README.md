@@ -1,0 +1,1 @@
+# trial-npm-package
